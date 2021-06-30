@@ -27,6 +27,32 @@
      <string>Hola mundo</string>
     </property>
    </widget>
+   <widget class="QLabel" name="outSaludo">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>70</y>
+      <width>241</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Probando git!</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="cmdSaludar">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>110</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Saludar</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
