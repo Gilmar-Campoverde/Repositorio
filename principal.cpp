@@ -15,5 +15,5 @@ Principal::~Principal()
 
 void Principal::on_cmdSaludar_clicked()
 {
-    ui->outSaludo->setText("Bienvenidos a mi primer programa");
+    ui->outSaludo->setText("Cambiamos el programa");
 }
