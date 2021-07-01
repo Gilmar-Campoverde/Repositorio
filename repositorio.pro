@@ -10,11 +10,9 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    persona.cpp \
     principal.cpp
 
 HEADERS += \
-    persona.h \
     principal.h
 
 FORMS += \
